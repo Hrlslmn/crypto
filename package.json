@@ -32,9 +32,8 @@
   },
   "browserslist": {
     "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
+      "defaults",
+      "not ie 11"
     ],
     "development": [
       "last 1 chrome version",
@@ -45,5 +44,5 @@
   "devDependencies": {
     "gh-pages": "^5.0.0"
   },
-  "homepage": "https://hrlslmn.github.io/Crypto-info/"
+  "homepage": "https://main.d1kwd9jpi6o1hx.amplifyapp.com/"
 }
