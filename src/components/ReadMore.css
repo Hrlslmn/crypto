@@ -1,0 +1,14 @@
+.read-more-read-less{
+    padding:10px 20px 20px 20px;
+}
+.toggle-read-more{
+    background-color: black;
+    color: rgb(240, 200, 113);
+    margin-left:5px;
+}
+
+@media screen and (max-width:590px) {
+    .toggle-read-more{
+        border: none;
+    }
+}

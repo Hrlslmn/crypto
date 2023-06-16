@@ -1,0 +1,22 @@
+*{
+    font-family: 'Playfair Display', serif;
+}
+.coin-section{
+    border-top : 2px  solid antiquewhite;
+    border-right:none ;
+    border-bottom: none;
+}
+
+.impt-bold{
+    font-weight: 500;
+    font-size: 22px;
+    color: rgb(240, 200, 113);
+}
+
+@media screen and (max-width:570px) {
+    .coin-section{
+        border-left:none ;
+        border-right:none ;
+        border-bottom: none;
+    }
+}
