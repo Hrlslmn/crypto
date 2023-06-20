@@ -46,6 +46,6 @@ body {
 
   @media screen and (max-width:500) {
       span img{
-        width: 80px;
+        width: 60px;
       }
   }
