@@ -1,6 +1,6 @@
 import React from 'react'
 import './cointoken.css'
-import ReadMoreReadLess from '../ReadMoreReadLess'
+import ReadMoreReadLess from './ReadMoreReadLess'
 
 function Cointoken() {
     

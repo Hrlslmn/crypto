@@ -1,5 +1,4 @@
 import React from 'react'
-import './Carousel.css'
 import Carousel from 'react-bootstrap/Carousel';
 import Header1 from './header-image.jpg'
 import Header2 from './header-image-2.jpg'
@@ -15,7 +14,6 @@ function UncontrolledExample() {
           alt="First slide"
         />
         <Carousel.Caption>
-        <h2 className='carousel-title'>Invest in the future</h2>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
